@@ -1,0 +1,216 @@
+1. Whisker = tool can be used to perform session splicing attacks.
+
+2. (SOAP) Simple object access protocol = Compatible with all the protocol like SMTP, FTP, HTTP, HTTPS, etc.
+
+3. At least once a year and after any significant upgrade or modification according to PCI DSS it is necessary to conduct this penetration technique.
+
+4. performs a server scan and the TCP Header is split into many packets is called IP Fragmentation scanning.
+
+5. Attack the IoT device and  use several fake identities to create a strong illusion this type of attack is called Sybil attack.
+
+6. wireless standard has bandwidth up to 54 Mbit/s and signals in a regulated frequency spectrum around 5 GHz == 802.11a
+
+7.The evasion(IDS) method depend on the Time-to-Live (TTL) fields of a TCP/IP is Insertion Attack.
+
+8. The method of determining the movement of a data packet from an untrusted external host to a protected internal host through a firewall = Firewalking
+
+9. Secure Hashing Algorithm, which produces a 160-bit digest from a message on principles similar to those used in MD4 and MD5 = SHA-1
+
+
+10. Nmap's commands allows you to most reduce the probability of detection by IDS when scanning common ports = nmap -sT -O -T0 
+
+11.  a set of extensions to DNS that provide to DNS clients (resolvers) origin authentication, authenticated denial of existence and data integrity, but not availability 
+or confidentiality = DNSSEC
+
+12. web application attack inject the special character elements "Carriage Return" and "Line Feed" into the user’s input to trick the web server, web 
+application, or user into believing that the current object is terminated and a new object has been initiated = CRLF Injection
+
+13. SYN/FIN scanning using IP fragments Technique = make it difficult for the packet filter to determine the purpose of the packet when scanning.
+
+14. When Traffic is Blocked on UDP Port 53 then it is possibility of sites can't be run by URL but can be run by IP address.
+
+15. An anomaly based IDS can detect unknown attacks but Signature based IDS can't.
+
+16. command will help you launch the Computer Management Console from" Run " windows as a local administrator Windows 7 = compmgmt.msc
+
+17.  HIPAA = All medical records and policies.
+
+18. command-line flags set a stealth scan for Nmap = -sS
+
+19. best describes two-factor authentication for a credit card (using a card and pin) = Something you have and something you know.
+
+20.  NIST-800-53 = regulation defines security and privacy controls for all U.S. federal information systems except those related to national security
+
+21. Trickery and Deceit – it involves the use of social engineering techniques to extract 
+cryptography keys 
+
+
+22. Full disk encryption is used for the protection of confidential information on your laptop during travelling.
+
+23. TRUE means ATTACK HUA HAI and FALSAE means ATTACK NHI HUA HAI
+    IF you gets an alert then its POSITIVE or IF you did not get an alert then its           
+NEGATIVE.
+
+24. * Userland Exploit: It allows user-level access but does not allow iboot-level access. 
+    * iBoot Exploit: An iBoot jailbreak allows user-level and iboot-level access. 
+    * Bootrom Exploit: It allows user-level access and iboot-level access.
+
+25. Makes a series of interactive queries, choosing subsequent plaintexts based on the 
+information from the previous encryptions is called Adaptive chosen-plaintext attack.
+
+26. The type of violation when an unauthorized individual enters a building following an employee through the employee entrance = Tailgating
+
+27. alert tcp any any -> 10.199.10.3 21 (msg: "FTP on the network!";) this type of configuration techniques is used in IDS like Snort.
+
+28. Compromised data integrity As SQL statements are also used to modify or add the 
+record, an attacker can use SQL injection to modify or add data stored in a database. 
+
+29. The mechanism of a Boot Sector Virus = Moves the MBR to another location on the hard disk and copies itself to the original location of the MBR. 
+
+30. A tools is packet sniffer, network detector and IDS for 802.11(a, b, g, n) wireless LANs = Kismet
+
+31. Abel = Cain and Abel (often abbreviated to Cain) was a password recovery tool for Microsoft Windows. It could recover many kinds of passwords using methods such as network 
+packet sniffing, cracking various password hashes by using methods such as dictionary attacks, brute force and cryptanalysis attacks. Cryptanalysis attacks were done via 
+rainbow tables which could be generated with the winrtgen.exe program provided with Cain and Abel. 
+
+32. A tool that can function as a network sniffer, record network activity, prevent and detect network intrusion = Snort
+
+33.  Google search operators allows restricting results to those from a specific website = [site:]
+
+34. Web application firewall used where it can protect against SQL injection attacks.
+
+35. nmap -T4 -F 10.10.0.0/24 this cmd is used for  a server with an IP address of 10.10.0.5, and you want to get fast a list of all the machines in this network.
+
+36. NIDS(Network based intrusion detection system) = When the NIDS encounters encrypted traffic, the only analysis it can perform is packet level analysis, since the application layer 
+contents are inaccessible.
+
+37. If an attacker tries to e connects his router to the network and redirects traffic to intercept packets then it can be mitigated by adding message authentication to the routing protocol.
+
+38. code injection = Form of attack in which a malicious user inserts text into a data field interpreted as code 
+
+39. The incident handling process phases is responsible for defining rules, employees training, creating a back-up, and preparing software and hardware resources before an incident occurs = Preparation
+
+40.  Aircrack-ng is a network software suite designed for 802.11 WEP and WPA-PSK keys cracking that can recover keys once enough data packets have been captured.
+
+41. Penetration tests are better then vulnerability scan because Penetration testing are intended to exploit weaknesses in the architecture of your IT network, while a vulnerability scan does not typically involve active exploitation.
+
+42. Nikto tool is a command-line vulnerability scanner that scans web servers for dangerous files/CGIs.
+
+43. In a CSRF attack, an innocent end-user is tricked by an attacker into submitting a web request that they did not intend.
+
+44. A Wireless Intrusion Prevention System (WIPS) is a network device that monitors the radio spectrum for the presence of unauthorized access points (intrusion detection), and can automatically take countermeasures (intrusion prevention).
+
+45. Modifying and replaying captured network traffic can not be done during the sniffing the target network traffic.
+
+46. Black Box pentest = no information about target 
+    White Box pentest = Full information about target
+    Grey Box pentest = Half information about target
+
+47. Software firewall is placed between the normal application and the networking components of the operating system.
+
+48. Maltego to examine links between data. One of the main requirements is to present data using graphs and link analysis
+
+49. SELECT * FROM user WHERE name = 'x' AND userid IS NULL; --';  this type of SQL injection is known as End of line comment.
+
+50. Attacker should change HOSTS file if he wants to be sure that when a victim attempts to go to "www.site.com" that the user is directed to a phishing site.
+
+51. At Presentation layer the encryption and Decryption of the email is done using (PKI).
+
+52. 123 = Network time protocol(NTP)
+    161 = Simple Network Management Protocol(SNMP)
+    177 = X Display Management Control Protocol(XDMCP)
+    19 = Character Generator Protocol(CHARGEN)
+
+53.  TCP Connect/Full Open Scan is used for the open ports scanning which is most reliable type of TCP scanning.
+
+54. WHOIS is the protocol that used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name, an IP address block or an autonomous system.
+
+55. Internet Relay Chat (IRC) is an application layer protocol that facilitates communication in text so here Application layer firewall is an obstacle which is blocking the outbound traffic.
+
+56. wrapping attacks =  He duplicates the body of the message and sends it to the server as a legitimate use to gain the unauthorized access.
+
+57. IPsec is works on Network layer and done Key exchange, Packet headers, Authentication, Encryption, Transmission, Decryption and note that it can not work on the data link layer.
+
+58. Clickjacking is an attack that tricks a user into clicking a webpage element which is invisible or disguised as another element.
+
+59. SAST = access to the source code vulnerability analysis.
+    DAST = This tools does not have access to the source code
+    MAST = Mobile application security testing is blend of SAST and DAST and forensic techniques
+    IAST = Interactive application security testing , combine the knowledge of data flow and application flow.
+
+60. The firewall prevents packets from entering the organization through certain ports and applications, this firewall checks the Application layer headers and transport layer port numbers. 
+
+61. Unforgeable and authentic = the two main conditions for a digital signature.
+
+62. Quantum Cryptography =  an encryption technique where data is encrypted by a sequence of photons.
+
+63. In Wireshark the format of the data presented in this pane is Hexadecimal.
+
+64. In Docker when we will use it to create a network connection between the container interfaces and its parent host interface we should use the Macvlan networking drivers is best suitable.
+
+65. when we identifies malware by collecting data from protected computer while analysing it on the provider's infrastructure instead of locally is Cloud-based detection.
+
+66. Tautology = SQL injection attack does an attacker usually bypassing user authentication and extract data by using a conditional OR clause so that the condition of the WHERE clause will always be true.
+
+67. Botnet  is a logical collection of Internet-connected devices such as computers, smartphones or Internet of things (IoT) devices whose security has been breached and control ceded to a third party.
+
+68. Residual Risk  is the risk that remains after the amount of risk left over after natural or inherent risks have been reduced.
+
+69. The flag "-oX" in a Nmap scan =  Output the results in XML format to a file
+
+70. The flags will trigger Xmas scan = "-sX"
+
+71. Use a hash algorithm in the document once CFO approved the financial statements to make sure that the financial reports sent by the financial director to the accountant is received the reports and hasn't been changed.
+
+72. In cases where source routing is disabled, the session hijacker can also use blind hijacking where he injects his malicious data into intercepted communications in the 
+TCP session. It is called blind because he cannot see the response; though the hijacker can send the data or commands, he is basically guessing the responses of the client and server. 
+
+73. Access Gateway layers in IoT architecture helps bridge the gap between two endpoints, such as a device and a client, and carries out message routing, message identification, and subscribing.
+
+74. When an attacker  tries to call numerous random numbers inside the company, claiming he is from the technical support service. It offers company employee services 
+in exchange for confidential data or login credentials this social engineering method is called Quid Pro Quo.
+
+75. When an attacker sends partial HTTP requests to the target webserver to exhaust the target server’s maximum concurrent connection pool is known as Slowloris attack.
+
+76. RSA  cipher is based on factoring the product of two large prime numbers.
+
+77. "-F" option is used when you want to scan fewer ports than default.
+
+78. IPSEC is used  in a VPN for setting up a secure channel between two devices.
+
+79. Multipartite Virus program attack both the boot sector and executable files.
+
+80. When attacker split the attack traffic into many packets such that no single packet triggers the IDS is known as Session splicing.
+
+81. When attacker installs a virtual communication tower between the two authentic endpoints to mislead the victim this attack is known as aLTEr attack.
+
+82. When attacker enters a huge amount of random data and observes changes in output and security loopholes in web applications this is called Fuzzing SQL technique.
+
+83. When you try to match all the registered events in all the logs, provided by the Firewall and IDS and you found that their sequence didn't match then it's the possibility that the network devices are not all synchronized. 
+
+84. Сollision attack on a hash tries to find two inputs producing the same hash value.
+
+85. "rubber-hose" attack in cryptography =  Extraction of cryptographic secrets through coercion or torture.
+
+86. IPsec a layer 3 protocol allows for end-to-end encryption of the connection.
+
+87. Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF (sometimes pronounced sea-surf) or XSRF, is a type of malicious exploit of a website where unauthorized commands are submitted from a user that the web application trusts.
+
+88. Banner Grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports. Administrators can use this to take inventory of the systems and services on their network. However, an intruder can use banner grabbing in order to find network hosts that are running versions of applications and operating systems with known exploits. 
+Some examples of service ports used for banner grabbing are those used by Hyper Text Transfer Protocol (HTTP), File Transfer Protocol (FTP), and Simple Mail Transfer Protocol (SMTP); ports 80, 21, and 25 respectively. Tools commonly used to perform banner grabbing are Telnet, nmap and Netcat 
+
+89. Dynamic ARP inspection(DAI) is a security feature on switches leverages the DHCP snooping (also known as ARP poisoning or ARP cache poisoning) database to help prevent man-in-the-middle attacks.
+
+90. The known-plaintext attack used against DES.This attack causes that encrypting plaintext with one DES key followed by encrypting it with a second DES key is no more secure than using a single key = Meet-in-the-middle attack.
+
+91. Pure Honeypots is the type of honeypots that simulates the real production network of the target organization. 
+
+92. Bluejacking is the sending of unsolicited messages over Bluetooth to Bluetooth-enabled devices such as mobile phones, PDAs or laptop computers, sending a vCard which typically contains a message in the name field (i.e., for bluedating or bluechat) to another Bluetooth-enabled device via the OBEX protocol. 
+
+93.  Stealth/Tunneling virus tries to hide from antivirus programs by actively changing and corrupting the chosen service call interruptions when they are being run.
+
+94. Auxiliary modules do not require the use of a payload to run like exploit modules. These types of modules include useful programs such as scanners, fuzzier, and SQL injection tools. Penetration testers use the plethora of scanners in the auxiliary directory to gather a deep understanding of the system to be attacked and then transition to exploit modules.
+
+95.  The purpose of the demilitarized zone is to add an extra layer of security to an organization's local area network. 
+
+96. Heartbleed Bug  is a vulnerability in OpenSSL that allows stealing the information protected under normal conditions by the SSL/TLS encryption used to secure the Internet.
